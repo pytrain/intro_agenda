@@ -16,7 +16,7 @@ __Day 1: Fundamentals of Python__
 __Day 2: Data Manipulations__
 * 08:45-10:00 [Try and Except]() (Jules)
 * 10:00-10:15 **Break**
-* 10:15-11:15 [Intro to Functions and Modules]() ()
+* 10:15-11:15 [Intro to Functions and Modules]() (Brent)
 * 11:15-12:15 [Introduction to Matplotlib]() (Jules)
 * 12:15-13:15 **Lunch Break**
 * 13:15-14:30 [Introduction to Numpy]() ()
