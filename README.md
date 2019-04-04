@@ -7,24 +7,26 @@ __Day 1: Fundamentals of Python__
   * Launching Python
   * Basic Operations
 * 09:45:10:00 **Break**
-* 10:00-11:00 [Data Types 1]() (Jules)
-  * Integers, Floating-Point, Strings
-* 11:00-12:00 [Data Types 2]() (Jules)
+* 10:00-11:00 [Basic Data Types]() (Jules)
+  * Integers, Floating-Point Numbers, Strings
+* 11:00-12:00 [Advanced Data Types]() (Jules)
   * List, Set, Tuple, Dictionary, Counter
 * 12:00-13:00 **Lunch Break**
 * 13:00-14:00 [Conditional Statements and Loops]() (Brent)
   * If Statement, For & While Loops
-* 14:00-15:00 [Error and Exception Handling]() (Jules)
+* 14:00-15:15 [Functions and Modules]() (Brent)
   * Try & Except Statements
-* 15:00-15:15 **Break**
-* 15:15-16:15 [Coding Standards]() (Jules)
+* 15:15-15:30 **Break**
+* 15:30-16:305 [List Comprehension and More]() (Jules)
 
 __Day 2: Data Manipulations__
-* 08:45-10:00 [Intro to Functions and Modules]() (Brent)
-* 10:00-10:15 **Break**
-* 10:15-11:15 [Introduction to File I/O]() (Jules)
-* 11:15-12:15 [Reading/Writing Imagery Files]() (Brent)
-* 12:15-13:15 **Lunch Break**
-* 13:15-14:30 [Intoduction to Matplotlib]() (Jules)
-* 14:30-14:45 **Break**
-* 14:45-16:00 [Introduction to SciPy]() ()
+* 08:45-09:45 [Introduction to File I/O]() (Jules)
+* 09:45-10:00 **Break**
+* 10:00-11:00 [Reading/Writing Imagery Files]() (Brent)
+* 11:00-12:00 [Introduction to NumPy]() (Jules)
+* 12:00-13:00 **Lunch Break**
+* 13:00-14:00 [Intoduction to Matplotlib]() (Jules)
+* 14:00-14:45 [Introduction to SciPy]() (Jules)
+* 14:45-15:00 **Break**
+* 15:00-16:00 [Python Coding Standards]() (Brent)
+* 16:00-16:15 [Feedback Session]() (Brent)
