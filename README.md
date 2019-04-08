@@ -11,7 +11,7 @@ __Day 1: Fundamentals of Python__
 * 13:00-14:00 [Conditional Statements](http://github.com/pytrain/conditional_logic/blob/master/conditionals.ipynb)  and [Loops](http://github.com/pytrain/loops/blob/master/loops.ipynb) (Brent)
 * 14:00-15:15 [Functions](http://github.com/pytrain/functions_modules/blob/master/Functions.ipynb) and [Modules](http://github.com/pytrain/functions_modules/blob/master/Modules.ipynb) (Brent)
 * 15:15-15:30 **Break**
-* 15:30-16:305 [List Comprehension and More](http://github.com/pytrain/list_comprehension/blob/master/ListComprehensions.ipynb) (Jules)
+* 15:30-16:30 [List Comprehension and More](http://github.com/pytrain/list_comprehension/blob/master/ListComprehensions.ipynb) (Jules)
 
 __Day 2: Data Manipulations__
 * 08:45-09:45 [Introduction to File I/O]() (Jules)
