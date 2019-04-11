@@ -14,7 +14,7 @@ __Day 1: Fundamentals of Python__
 * 15:30-16:30 [List Comprehension and More](http://github.com/pytrain/list_comprehension/blob/master/ListComprehensions.ipynb) (Jules)
 
 __Day 2: Data Manipulations__
-* 08:45-09:45 [Introduction to File I/O]() (Jules)
+* 08:45-09:45 [Introduction to File I/O](http://github.com/pytrain/io/blob/master/File_IO.ipynb) (Jules)
 * 09:45-10:00 **Break**
 * 10:00-11:30 [Planetary Sciences Case Study]() (Brent)
   * Working with FITS Files
