@@ -16,13 +16,11 @@ __Day 1: Fundamentals of Python__
 __Day 2: Data Manipulations__
 * 08:45-09:45 [Introduction to File I/O](http://github.com/pytrain/io/blob/master/File_IO.ipynb) (Jules)
 * 09:45-10:00 **Break**
-* 10:00-11:30 [Planetary Sciences Case Study]() (Brent)
-  * Working with FITS Files
+* 10:00-11:30 Planetary Sciences Case Study (Brent)
+  * [Working with FITS Files](http://github.com/pytrain/fits/blob/master/fits.ipynb)
   * An introduction to SpiceyPy
 * 11:30-12:30 **Lunch Break**
-* 12:30-13:30 [NumPy/SciPy]() (Jules)
-* 13:30-14:15 [Introduction to Matplotlib]() (Jules)
+* 12:30-13:30 [NumPy](http://github.com/pytrain/numpy/blob/master/IntroNumPy.ipynb)/[SciPy](http://github.com/pytrain/scipy/blob/master/IntroductionSciPy.ipynb) (Jules)
+* 13:30-14:15 [Introduction to Matplotlib](http://github.com/pytrain/viz/blob/master/IntroMatplotlib.ipynb) (Jules)
 * 14:15-14:30 **Break**
-* 14:30-15:30 [Pandas or Dask]() (Brent)
-  * [Pandas](https://pandas.pydata.org)
-  * [Dask](https://dask.org)
+* 14:30-15:30 [Pandas](http://github.com/pytrain/pandas/blob/master/Intro_Pandas.ipynb) (Brent)
