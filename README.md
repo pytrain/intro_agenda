@@ -8,7 +8,7 @@
 | 10:30 - 10:45 | **Break** | | |
 | 10:45 - 12:00 | Basic Data Types | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/BeginnerPython/blob/master/data_types/Python_basic_data_types.ipynb) | Bruce |
 | 12:00 - 13:00 | **Lunch Break** | | |
-| 13:00 - 14:00 | Advanced Data Types | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/BeginnerPython/blob/master/data_types/Python_advanced_data_types.ipynb) | Carlos |
+| 13:00 - 14:00 | Advanced Data Types | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/data_types/blob/master/Python_data_structures.ipynb) | Carlos |
 | 14:00 - 14:45 | Conditional Statements | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/BeginnerPython/blob/master/conditional_logic/conditionals.ipynb) | Bruce |
 | 14:45 - 15:00 | **Break** | | |
 | 15:00 - 16:00 | Loops | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/BeginnerPython/blob/master/loops/loops.ipynb) | Jules |
