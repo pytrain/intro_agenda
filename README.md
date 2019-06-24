@@ -19,3 +19,8 @@
 | 16:00 - 16:15 | **Break** | | |
 | 16:15 - 17:00 | Introduction to Pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/pandas/blob/master/Intro_Pandas.ipynb) | Jules |
 | 17:00 - 17:30 | **Feedback Session** | | 
+
+## Additional Lectures:
+| Time | Lecture Topic | Interactive Link | Lecturer |
+|------|---------------|------------------|----------|
+|  | Manipulating Files (csv, Fits, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/adv_io.ipynb) | Jules |
